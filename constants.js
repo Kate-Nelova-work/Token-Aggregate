@@ -1,4 +1,4 @@
-// pRoy24 TokenPlex
+
 /**
  * Change these values to the host that you are running
  * @type {{CQL_API_SERVER: string, REDIS_API_SERVER: string}}
